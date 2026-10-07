@@ -20,17 +20,23 @@ Together, these sides form the organizational structure that supports the club's
 ---
 
 # 💻 Technical Tracks
-
-The Technical side consists of specialized tracks covering different areas of **Computer Science and emerging technologies**.
-
-Each track follows a structured **Technical Roadmap** that defines the learning journey, topics, practical activities, and expected outcomes throughout the track.
-
-### 📚 Learning Roadmaps
-
-Each Technical Track maintains its own roadmap, designed to provide members with a clear and progressive learning path.
-
-Roadmaps may include:
-
+ 
+The Technical Department is organized into specialized tracks (Circles), each covering a key area of Computer Science and emerging technology. Every track follows a structured roadmap that defines its learning journey, topics, practical activities, and expected outcomes throughout the season.
+ 
+## 🧭 Our Tracks
+ 
+- **Cloud & DevOps**
+- **Data Engineering**
+- **Data Science**
+- **Frontend**
+- **Backend**
+- **UI/UX**
+## 📚 Learning Roadmaps
+ 
+Each track maintains its own roadmap, designed to give members a clear, progressive path from fundamentals to real-world application.
+ 
+A roadmap may include:
+ 
 - Core concepts and fundamentals
 - Advanced technical topics
 - Hands-on exercises
@@ -38,34 +44,42 @@ Roadmaps may include:
 - Workshops and technical sessions
 - Assessments and challenges
 - Recommended learning resources
-
-### 👨‍🏫 Mentorship & Support
-
-Members are supported throughout their learning journey by **Mentors and Teaching Assistants (TAs)**.
-
-Their role includes:
-
+## 🔁 How Learning Works
+ 
+Members learn through a simple weekly cycle:
+ 
+1. **Kickoff** — the Mentor introduces the week's topic and shares the task and learning resources.
+2. **Learn & Practice** — members study the material and complete the task on their own, asking for help early when blocked.
+3. **Submit** — members deliver their work by the deadline.
+4. **Review & Feedback** — the Mentor reviews each submission and gives clear feedback.
+5. **Support Session (if needed)** — a session is held only when the review shows a concept needs extra explanation.
+The goal is to help members grow from guided learning into confident, independent contributors.
+ 
+## 👨‍🏫 Mentorship & Support
+ 
+Each track is led by a Circle Head and supported by Mentors who guide members throughout their journey. Mentors are responsible for:
+ 
 - Explaining and reinforcing technical concepts
 - Supporting members during practical activities
-- Providing guidance and feedback
+- Providing regular guidance and feedback
 - Helping members overcome technical challenges
 - Tracking learning progress
 - Supporting project development
-
-### 🛠️ Technical Activities
-
-Technical learning is delivered through a variety of activities, including:
-
+## 🛠️ Technical Activities
+ 
+Learning is delivered through a variety of activities, including:
+ 
 - Workshops
 - Technical sessions
-- Tech Talks
+- Tech talks
 - Hands-on labs
 - Projects
 - Challenges
 - Competitions
 - Collaborative learning activities
-
-The goal is not only to **learn technologies**, but also to give students opportunities to **apply their knowledge, build projects, collaborate with others, and gain real-world experience**.
+## 🎯 Our Goal
+ 
+Our goal is not only to teach technologies, but to give students the chance to apply what they learn, build real projects, collaborate with others, and gain practical, real-world experience.
 
 ---
 
@@ -133,12 +147,13 @@ Microsoft Student Club – MU
 │
 ├── 💻 Technical Tracks
 │   ├── Technical Roadmaps
-│   ├── Mentors
-│   ├── Teaching Assistants
-│   ├── Workshops
-│   ├── Tech Talks
-│   ├── Projects
-│   └── Challenges & Competitions
+|   |   ├── Cloud & DevOps
+|   |   ├── Data Engineering
+|   |   ├── Data Secience 
+|   |   ├── Frontend
+|   |   ├── Backend
+|   |   └── UI / UX
+│   └── Projects
 │
 ├── ⚙️ Operations
 │   ├── HR
